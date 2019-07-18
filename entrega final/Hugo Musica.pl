@@ -20,3 +20,4 @@ rival(A, B):-
 casal(A,B):-
     ama(B,A),
     ama(A,B),
+    A @< B.
