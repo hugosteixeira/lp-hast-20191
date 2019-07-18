@@ -1,0 +1,3 @@
+Na atividade de sofisma, apenas check('seteve wonder', 'deus'). saiu como true, isso se dá pelo fato de como está sendo feita a checagem.
+Para um sofisma ser verdadeiro eu verifiquei se o segundo elemento da tupla aparece como primeiro em algum momento,
+e quando aparece se o elemento parceiro dele aparece como dupla do primeiro elemento da tupla inicial.
